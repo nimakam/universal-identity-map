@@ -1,21 +1,21 @@
-# Ecosystems
+# 🌐 Ecosystems
 
 ToDo
 
-## By technology wave
+## 〰️ By technology wave
 
-### Legacy
+### 📜 Legacy
 
-### On-premise
+### 💾 On-premise
 
-### Web 2.0
+### 🕸 Web 2.0
 
-### Web 3.0
+### 🛸 Web 3.0
 
-## By segment
+## ☮️ By segment
 
-### Consumer
+### 🧑 Consumer
 
-### Business
+### 🧑‍💼 Business
 
-### Government
+### 🏛 Government

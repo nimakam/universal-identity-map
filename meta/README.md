@@ -149,7 +149,7 @@ The market scope represents the space of all activities meant to provide offerin
 
 #### 🤳 Use case
 
-Product
+### 📦 Product
 
 #### 🎬 Scenario
 
