@@ -64,7 +64,7 @@ As a result there are 3 different sub-personas that we will focus on as describe
 
 **Divya IdApp** is the development-operations person focusing on building and managing a dedicated Identity Management App that the consumers such as Connie use directly.
 
-### App platform UID developer
+### App platform developer
 
 **Divya AppPlat** is the development-operations person focusing on providing libraries and tools to app developers such as Devin, in order to enable integrating decentralized identity into their apps based on Divya's App Platform offering.
 
