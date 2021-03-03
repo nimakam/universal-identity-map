@@ -8,7 +8,7 @@ Here we define the concepts needed for building an objective meta-map of how our
 
 ![Mapping meta-concepts][meta-concepts]
 
-[meta-concepts]: meta/images/meta-concepts.png
+[meta-concepts]: images/meta-concepts.png
 
 ### Perspectives
 
@@ -35,7 +35,7 @@ Below are the list of perspectives followed by the significant  topics they enco
 
 ![Domains and examples][domains]
 
-[domains]: meta/images/domains@500w.png
+[domains]: images/domains@500w.png
 
 #### Human
 
@@ -100,7 +100,7 @@ At all of these levels we will be able to apply the lenses, tools and perspectiv
 
 ![Meta map and examples][meta-map]
 
-[meta-map]: meta/images/meta-map.png
+[meta-map]: images/meta-map.png
 
 ### Levels
 
@@ -108,7 +108,7 @@ At all of these levels we will be able to apply the lenses, tools and perspectiv
 
 ![Map levels][map-levels]
 
-[map-levels]: meta/images/map-levels.png
+[map-levels]: images/map-levels.png
 
 Below are the levels used in the map below, followed by their estimated economic order of magnitude:
 
@@ -191,7 +191,7 @@ Parts of these steps may occur in parallel or out of order, however the general 
 
 ![Methodology and mapping][methodology]
 
-[methodology]: meta/images/methodology.png
+[methodology]: images/methodology.png
 
 ## Charting a new course
 
