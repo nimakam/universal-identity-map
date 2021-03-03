@@ -8,6 +8,8 @@ It is intended to cover the industry broadly and deeply, giving everyone a commo
 
 [meta-map]: meta/images/meta-map.png
 
-## [Contents](index.md)
+## Contents
 
-Navigate the contents from our [index page](index.md).
+- **[Meta](meta/readme.md)** - The collection of meta information needed to make sense of the map's structure, its individual parts, and high level concepts.
+- **[Personas](personas/readme.md)** - Definition of major personas used in various parts of the industry categorized by segments.
+- **[Ecosystems](ecosystems/readme.md)** - ToDo.
