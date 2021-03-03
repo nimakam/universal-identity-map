@@ -10,24 +10,23 @@ Here we define the concepts needed for building an objective meta-map of how our
 
 [meta-concepts]: images/meta-concepts.png
 
-### 🛤 Perspectives
+### 👁 Perspectives
 
 Perspectives refer to the patterns and viewpoints used to understand and influence external  realities. They often align with the individual disciplines represented in most major businesses, as well as reflected in organization structures at the leadership level.
 Below are the list of perspectives followed by the significant  topics they encompass:
 
-- **Industry** - Ecosystem, stakeholders, incentives, alliances, power dynamics, game-theory, standards
-- **Market** - Audiences, needs, wants, use cases, positioning, promotion, branding, pricing, psychographics
-- **Design** - Personas, experiences, sentiment, brands, habits, mental maps
-- **Security** - Expected outcomes, risks, vulnerabilities, damages, mitigations
-- **Product** - Solutions, Products and services, interfaces, delivery, user-tasks, features, state and storage, specifications, support
+- **Industry** - **Ecosystem**, **stakeholders**, incentives, alliances, power dynamics, game-theory, standards
+- **Market** - Audiences, needs, wants, **use cases**, positioning, promotion, branding, pricing, psychographics
+- **Design** - **Personas**, **experiences**, sentiment, brands, habits, **mental maps**
+- **Security** - Expected outcomes, risks, **vulnerabilities**, damages, mitigations
+- **Product** - Solutions, **Products and services**, interfaces, delivery, user-tasks, **features**, state and storage, specifications, support
 - **Business model** - Customers, agreements, transactions, income, costs, profits, pricing, strategy
-- **Operations** - Procedures, logistics, projects, waste-minimization, scenarios
-- **Engineering** - Architecture, infrastructure, building, fixing, upgrading, maintaining, monitoring, servicing, scenarios
+- **Operations** - Procedures, logistics, projects, waste-minimization
+- **Engineering** - **Architecture**, infrastructure, building, fixing, upgrading, maintaining, monitoring, servicing, **scenarios**
 - **Organization** - Vision, mission, culture, leadership, functional orgs
-- **Information** - Concepts, structures, descriptions, contexts, instructions
-- **Narrative** - Worldview, memes, media, public positions, founding myth
+- **Information** - **Concepts**, structures, descriptions, contexts, instructions
+- **Narrative** - **Worldview**, memes, media, public positions, founding myth
 - **Jurisdiction** - Legal entity, governance, compliance, taxes, lobbying
-
 
 ### ☯️ Domains
 
