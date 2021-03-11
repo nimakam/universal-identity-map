@@ -1,5 +1,9 @@
 # 👤 Personas
 
+![Persona map][persona-map]
+
+[persona-map]: images/persona-map.png
+
 ## 👩 Consumer - Connie
 
 ![Connie the consumer][connie-consumer]
