@@ -30,11 +30,11 @@ Below are the list of perspectives followed by the significant  topics they enco
 
 And below are the definitions of each perspective:
 
-#### ⚙️ Industry
+#### ⚙️ Industry (perspective)
 
 Is the perspective of looking at the space from the macro level, generally with a focus and general economics and game theory of the various groups of players. Disciplines such as strategy, business development and part of finance are covered here.
 
-#### 🛍 Market [perspective]
+#### 🛍 Market (perspective)
 
 One can look at the space from the perspective of the individual markets where solutions and products are offered to paying customers, and where the decisions to purchase are made based on the customer's perspective and needs, as well as the products' position and branding.
 
@@ -46,7 +46,7 @@ This focuses on the perspective of users and how the understand and interact wit
 
 With an almost paranoid view, security focuses on all the possible undesirable outcomes in the lifetime of a service or product, and builds an understanding of which types of vulnerabilities, attacks and mitigations the product and its encompassing support should address.
 
-#### 📦 Product
+#### 📦 Product (perspective)
 
 This perspective focuses solely on the surface and structure of product itself, how it is defined, built and delivered to customers. This is arguably one of the most impactful perspectives in defining the customers' and users' final experience with purchasing and using the product. Product overlaps with and helps converge a number of other perspectives namely industry, market, design, business model, operations and engineering.
 
@@ -157,7 +157,7 @@ There is a certain hierarchy to the industry map with multiple levels, each corr
 
 ![Map levels][map-levels]
 
-[map-levels]: images/map-levels.png
+[map-levels]: images/map-levels@500w.png
 
 Below are the levels used in the map, followed by their estimated economic order of magnitude:
 
@@ -180,6 +180,7 @@ The greater space may encompass vastly different customers, modes of delivery an
 ### 🌐 Ecosystem
 
 The ecosystem perspective focuses on the significant relations and economic interactions between the industry players. An effective way of doing this is following the flow of value between different types of players all the way to the end-customers.
+
 These ecosystems can be further divided down into sub-ecosystems, often based on how flow of value converges within certain groups of ecosystem players. The identity space or ecosystem for examples can be divided into the consumer, business and government segments, or separately separated based on the type of technology (digital, physical, etc) and technology wave (on-premise, web 2.0, etc).
 
 #### 〰️ Technology wave
