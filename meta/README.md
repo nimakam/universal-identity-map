@@ -28,6 +28,56 @@ Below are the list of perspectives followed by the significant  topics they enco
 - **Narrative** - **Worldview**, memes, media, public positions, founding myth
 - **Jurisdiction** - Legal entity, governance, compliance, taxes, lobbying
 
+And below are the definitions of each perspective:
+
+#### ⚙️ Industry
+
+Is the perspective of looking at the space from the macro level, generally with a focus and general economics and game theory of the various groups of players. Disciplines such as strategy, business development and part of finance are covered here.
+
+#### 🛍 Market [perspective]
+
+One can look at the space from the perspective of the individual markets where solutions and products are offered to paying customers, and where the decisions to purchase are made based on the customer's perspective and needs, as well as the products' position and branding.
+
+#### 🖌 Design
+
+This focuses on the perspective of users and how the understand and interact with products. It considers the users' mental maps, sentiments, interaction mechanics, and user types in the form of personas, as well as helps with define the product's user experience.
+
+#### 🔒 Security
+
+With an almost paranoid view, security focuses on all the possible undesirable outcomes in the lifetime of a service or product, and builds an understanding of which types of vulnerabilities, attacks and mitigations the product and its encompassing support should address.
+
+#### 📦 Product
+
+This perspective focuses solely on the surface and structure of product itself, how it is defined, built and delivered to customers. This is arguably one of the most impactful perspectives in defining the customers' and users' final experience with purchasing and using the product. Product overlaps with and helps converge a number of other perspectives namely industry, market, design, business model, operations and engineering.
+
+#### 💰 Business model
+
+This perspective ultimately helps understand and define the financial viability of an entity, based on understanding the customers' economic parameters, as well as modeling other factors such as costs, revenues, profits based on the product's features and pricing. There is a bit of overlap with industry in terms of strategy, and some overlap with marketing around pricing.
+
+#### 🏃 Operations
+
+Focuses on predictable and consistent performance and creation of value. As such it pays special attention to things like project and program management, as well as general efforts to minimize waste in recurring processes that are the heart of a business, product and services.
+
+#### 📐 Engineering
+
+This area focuses on the sustainable building and maintenance of systems by applying technology. Expertise in topics such as architecture, infrastructure, automated servicing can create significant advantages for an organization.There may be overlaps with other disciplines around scenarios and project management.
+
+#### 👥 Organization
+
+is the perspective of guiding an organization of people to work together towards the same goal. The all-encompassing part of this perspective has to do with creating and curating a culture that is aligned with the organization's identity. There are various areas of overlap with other disciplines such as with human resources on managing people and their aspirations, as well as with organizational management on helping develop effective leaders.
+
+#### ℹ️ Information
+
+focuses on compiling, organizing and disseminating information and data in a way that advances the organization's goals. It covers compilation and organization of shared concepts, contexts and instructions that would be heavily used in the organization's lifetime. It also covers the methods and media to make said information available, such as through a website.
+
+#### 📖 Narrative
+
+This area pays attention to the narratives that shape perceptions of the organization inside and outside the organization. Internally narratives shape beliefs and culture, as well as motivate members of the organization to pursue shared goals every day. Externally the narrative about the existential identity of the organization inform how all stakeholders, including the general public, customers, users, partners, and investors, relate to the brand and organization.
+
+#### ⚖️ Jurisdiction
+
+focuses on public policy, legal enforcement and balancing them across multiple physical (and virtual) jurisdictions. It deals with ensuring compliance with the specific jurisdictions that an organizations decides to operate within. Most commonly and organization's legal department, or external council, takes on this role, which requires an understanding of agreements and enforcement mechanisms.
+
 ### ☯️ Domains
 
 Domains refer to high level areas of knowledge and skills that have to do with differences in nature of the main subject matters, namely: humans, technologies and the economy.
