@@ -1,8 +1,14 @@
 # 👤 Personas
 
+Personas are descriptive tools used by designers, product managers and developers to scope out the important properties and aspects of users that will affect decisions made during implementation. The point of personas is to put together similar groups of users based on their significant commonalities.
+
 ![Persona map][persona-map]
 
 [persona-map]: images/persona-map.png
+
+We can first consider a catch-all user persona with minimum knowledge and technical ability. To further specialize in the identity space, as with many other industries, the use cases and user personas can first be divided into groups corresponding to market segments such as consumer, business, and government. The common users in each of these segments do have differentiated aspects around their motivations, wants, needs and levels of technical sophistication.
+
+Developer personas for platform and application development can also be considered across all segments to start.
 
 ## 👩 Consumer - Connie
 
@@ -30,6 +36,15 @@ Troy and Truong are Connie's more trusted contacts, ones that may be entrusted w
 
 Akon and Akira are two of Connie's extended group of social acquaintances, with varying levels of closeness.
 
+## 🤓 Early adopter - Earl & Erica
+
+![Earl the early adopter and technology enthusiast][earl-early-adopter] ![Erica, fellow early adopter][erica-early-adopter]
+
+[earl-early-adopter]: images/earl-early-adopter.png
+[erica-early-adopter]: images/erica-early-adopter.png
+
+Earl and Erica are the tech enthusiast (technophiles) and early adopter end users, one of the main group of people we all ultimately serve as decentralized identity ecosystem stakeholders. Their abilities and demands are a superset of Connie's (the consumer end user). They are early adopters of crypto and/or other new technologies, as well as members of tech communities. They are likely in the age range 15-40, with technical education and/or coding experience. They likely have technology-related day jobs, and plenty of time to tinker with technology. They are comfortable using consumer technology but want deeper involvement, they want to understand how things work, and be able to customize the functions of their digital gadgets and apps.
+
 ## 🧑‍💻 App developer - Devin
 
 ![Devin the app developer][devin-app-dev]
@@ -46,66 +61,22 @@ Devin is the development-operations person working on decentralized-identity-ena
 
 Divya is an identity core platform, app or infrastructure development-operations person, which means she is a major stakeholder on the decentralized identity ecosystem. She spends most of her day focusing on the aspects of services and infrastructure that are key to decentralized identity ecosystem operations. She needs to ensure that infrastructure pieces function and are easy to use for app developers such as Devin. She also needs to provide support to Devin and app developers in general, with any issues.
 
-The following diagram demonstrates how the developer and consumer personas come together in building and using the ecosystem's assets.
-
-![Developer scenarios][developer-scenarios]
-
-[developer-scenarios]: scenarios/images/developer-scenarios.png
-
-Divya can further focus on one or many of the following areas, depending on her company's focus:
-
-1. **Identity operator service** - An identity operator service that provides a home for user's digital identity similar to how an email provider holding a user's emails.
-2. **Identity app** - Is a dedicated identity management app that consumers use to perform basic tasks such as setting up, logging in and authorizations with their digital identities.
-3. **App platform support** - Are libraries and tools provided to app developers by an app platform (such as Android, iOS, React, NodeJS, dotNET, etc) to support decentralized identity in their apps.
-
-As a result there are 3 different sub-personas that we will focus on as described below:
-
-### Identity operator service developer
-
-**Divya IdOp** is the development-operations person focusing on building and managing an Identity Operator service.
-
-### Identity app developer
-
-**Divya IdApp** is the development-operations person focusing on building and managing a dedicated Identity Management App that the consumers such as Connie use directly.
-
-### App platform developer
-
-**Divya AppPlat** is the development-operations person focusing on providing libraries and tools to app developers such as Devin, in order to enable integrating decentralized identity into their apps based on Divya's App Platform offering.
-
-## 🤓 Early adopter - Earl & Erica
-
-![Earl the early adopter and technology enthusiast][earl-early-adopter] ![Erica, fellow early adopter][erica-early-adopter]
-
-[earl-early-adopter]: images/earl-early-adopter.png
-[erica-early-adopter]: images/erica-early-adopter.png
-
-Earl is the tech enthusiast (technophile) and early adopter end user, one of the main persons we all ultimately serve as decentralized identity ecosystem stakeholders. His abilities and demands are a superset of Connie's (the consumer end user). He is an early adopter of crypto and/or other new technologies, as well as a member of tech communities. He is likely in the age range 15-40, with technical education and/or coding experience. He likely has a technology-related day job, and plenty of time to tinker with technology. He is comfortable using consumer technology but wants deeper involvement, he wants to understand how things work, and be able to customize the functions of his digital gadgets and apps.
-
 ## ⏹ Apps and services
 
 In addition to persona's this document highlights typical and representative examples of apps and backing web services that each persona could interact with in some way.
 
-Most importantly consumers will have to choose one or more identity operator web services to host their identity, and one primary identity app to interact with on their devices, especially for high security identity operations.
-
 Additionally consumers will typically interact with a large number of vertical apps and businesses that will rely on the greater decentralized identity system comprising of connected, public and private identity subsystems.
 
-### 🗝 Identity app & identity operator service
+### 🗝 Identity app
 
 ![Some identity app][some-identity-app]![Some identity app text][some-identity-app-text]
 
 [some-identity-app]: images/some-identity-app@128h.png
 [some-identity-app-text]: images/some-identity-app-text@128h.png
 
-SomeIdentityApp is a identity operator service and a paired identity app that consumers interact with directly on their devices.
+SomeIdentityApp is a secured identity app that consumers interact with directly on their devices.
 
-![Other identity app][other-identity-app]![Other identity app text][other-identity-app-text]
-
-[other-identity-app]: images/other-identity-app@64h.png
-[other-identity-app-text]: images/other-identity-app-text@64h.png
-
-OtherIdentityApp is an alternative identity operator service and a paired identity app that consumers interact with directly on their devices. The alternative choice is provided to highlight the multi-tenant nature of identity operator services and the fact that almost all consumers will have their identity hosted by more than one operator service at any given time.
-
-### 📲 Vertical app and service
+### 📲 Vertical app (and service)
 
 ![Some app][some-app]![Some app text][some-app-text]
 
@@ -120,12 +91,3 @@ SomeApp is a well known commercial web service and app that consumer interact wi
 [some-brand-text]: images/some-brand-text@64h.png
 
 SomeBrand is a public facing brand that consumer interact with directly. It is representative of any commercial vertical business, in an area such as retail, hospitality, technology, communications, energy, real estate etc. It is differentiate from SomeApp in that it does not necessarily offer a consumer app.
-
-### 📇 Contacts app
-
-![Some contacts app][some-contacts-app]![Some contacts app text][some-contacts-app-text]
-
-[some-contacts-app]: images/some-contacts-app@64h.png
-[some-contacts-app-text]: images/some-contacts-app-text@64h.png
-
-SomeContactsApp is a well known contact management app that consumer interact with directly on their devices.
