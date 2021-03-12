@@ -4,7 +4,7 @@ Most ecosystems can be further divided down into sub-ecosystems, often based on 
 
 ![Identity ecosystem map][ecosystem-map]
 
-[ecosystem-map]: images/ecosystem-map@1500w.png
+[ecosystem-map]: images/ecosystem-map@1000w.png
 
 ## 〰️ By [technology wave](../meta/README.md#technology-wave)
 
