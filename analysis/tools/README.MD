@@ -1,4 +1,4 @@
-# Tools
+# 🛠 Tools
 
 In one topic, we deep-dive into the most commonly used tools, as well as their relationships to the activity categories we defined above. This detailed analysis is performed in both contexts of present-day digital systems, and legacy systems pre-dating them. This comparison demonstrates how both generations of these systems and tools are ultimately enabling the same categories of supporting activities following similar patterns. All of this can inform future efforts to define next-generation self-sovereign identity systems, given that the same patterns will likely hold true there.
 

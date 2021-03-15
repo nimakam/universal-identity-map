@@ -1,8 +1,8 @@
-# Architecture
+# 🏛 Architecture
 
 The historical architecture of digital system has always involved a centralized identity sub-system system which all other sub-systems are built in top of in the sense of architecture. Only recently has the technology community been working on more distributed identity systems. We want to focus on internet identity and its architectural history.
 
-## Systems built on the internet
+## 🌐 Systems built on the internet
 
 Internet and the web are essentially public goods, that benefit people across the globe. However, the identity systems that currently help consumers use the web are ultimately private goods, primarily benefiting their providers, as opposed to the actual identity owners. Additionally, these systems are fragmented across multiple centralized providers, including the likes of Facebook, Google, as well as other proprietary solutions.
 

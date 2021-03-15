@@ -1,4 +1,4 @@
-# Economics of identity systems
+# 💸 Economics
 
 Economists have a unique way of observing and evaluating human activities based on produced economic surplus. Although excessive reliance on this viewpoint can prove myopic and amoral, it is nevertheless a useful tool for assessing the underlying reality of things.
 

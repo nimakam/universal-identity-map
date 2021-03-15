@@ -1,4 +1,4 @@
-# Analysis topics
+# 🔬 Analysis
 
 The following topics cover disparate areas and perspectives, but they are all results of detailed analysis of the modern identity [systems] industry.
 
