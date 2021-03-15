@@ -1,6 +1,6 @@
-# 🗺 Identity industry map
+# 🗺 Map
 
-A community maintained map (aka knowledge base) of the identity industry, launched and maintained by Universal Identity, with the aim of improving conversations about identity, specifically in the decentralized digital identity space.
+The identity industry map, is a community maintained map (aka knowledge base) of the identity industry, launched and maintained by Universal Identity, with the aim of improving conversations about identity, specifically in the decentralized digital identity space.
 
 > Notice: The contents of this repository will be merged with the Universal Identity website under <https://universal.id/map>. Currently they are hosted through GitBook under <https://map.universal.id>.
 
