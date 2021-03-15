@@ -4,7 +4,7 @@ Most ecosystems can be further divided down into sub-ecosystems, often based on 
 
 ![Identity ecosystem map][ecosystem-map]
 
-[ecosystem-map]: images/ecosystem-map@2000w.png
+[ecosystem-map]: images/ecosystem-map.png
 
 ## 〰️ By [technology wave](../meta/README.md#technology-wave)
 
@@ -18,13 +18,13 @@ Here we consider any technology before advent of the internet to be legacy. So a
 
 During the web 1.0 era, intranet and LDAP (Lightweight Directory Access Protocol) were touted inside enterprises. As part of this wave of technologies, SAML
 
-### 📱 Web 2.0
+### 📱 Web 2.0 (default)
 
 ### 🛸 Web 3.0
 
 ## ☮️ By [segment](../meta/README.md##ecosystem-segment)
 
-### 🧑 Consumer
+### 🧑 Consumer (default)
 
 The consumer segment always offers the larger economic opportunities due to its scale and relative uniformity, however it does provide its own challenges in terms of modes of delivery and purchase, due to the end-customers' relative lack of consideration resources and technical sophistication.
 
@@ -45,3 +45,5 @@ The business market is often further divided into segments for small businesses,
 ### 🏛 Government
 
 ## ⚙️ Industry extension
+
+Given that the identity [systems] industry is a supporting industry, its value chains are extended into other essential industries such as healthcare, finance and hospitality. As such we can consider specific vertical industry extensions in parts of the ecosystem that have corresponding value chains. For example, the fact that AirBnB uses Facebook login means that the consumer identity ecosystem is extended into the hospitality industry for specific use cases involving the AirBnB vertical industry app.
