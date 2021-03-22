@@ -205,6 +205,10 @@ With every product or solution, most often there are a handful set of use-cases 
 
 Use cases are often what is associated in customers' minds with some type of economic or behavioral (also a form of economic) value, and significantly effects purchasing decisions. The extent of this value and its substitutes in turn determines aspects of the business model such as pricing, profit and cost.
 
+#### 💣 Harm cases
+
+Aka. attack vectors or vulnerabilities, this describes the set of scenarios that lead to significantly undesirable outcomes. These can occur as the result of a malicious attack, or due to oversight or accidents. Many product security features are first conceived and are justifiable due to the existence of credible attacks or vulnerabilities, that have historically proven to be feasible and costly.
+
 ### 📦 Product
 
 Product generally describes a self-containing unit that a provider offers a customer. The customer's involvement is limited to learning about a product, and eventually making purchase decisions (positive or negative) after further learning and interactions. The provider is responsible for defining the scope of a product, the functionality it offers, its brand and positioning relative to other substitutes.

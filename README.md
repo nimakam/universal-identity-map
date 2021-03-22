@@ -12,6 +12,8 @@ This knowledge base is intended to cover the industry broadly and deeply, giving
 - **[🔬 Analysis](analysis/README.md)** - A collection of topics from different perspectives that are results of deep analysis of modern identity solutions.
 - **[👤 Personas](personas/README.md)** - Definition of major personas used in various parts of the industry categorized by segments.
 - **[🌐 Ecosystems](ecosystems/README.md)** - Incomplete ...
+- **[🤳 Use cases](use-cases/README.md)** - Describe the way users and customers receive value through usage.
+- **[💣 Harm cases](harm-cases/README.md)** - Attack vectors or vulnerabilities, describing the set of scenarios that lead to significantly undesirable outcomes.
 
 ## 🗺 Map structure
 
