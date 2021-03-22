@@ -1,4 +1,4 @@
-# 💣 Harm cases
+# 💣 [Harm cases](../../meta/README.md#harm-cases)
 
 Aka. attack vectors or vulnerabilities, describing the set of scenarios that lead to significantly undesirable outcomes. These can occur as the result of a malicious attack, or due to oversight or accidents.
 
@@ -24,15 +24,20 @@ Mitigation steps:
 
 1. Applying for a replacement credential from institution
 
-![](.gitbook/assets/credential-loss.png)
+![Credential loss][credential-loss]
+
+[credential-loss]: images/credential-loss.png
 
 ### 😱 Credential theft
 
-![](https://github.com/nimakam/universal-identity-map/tree/22e40afc3e6d159811944dc17f4e45c08458a68c/4-harm-cases/images/credential-theft.png)
+![Credential theft][credential-theft]
+
+[credential-theft]: images/credential-theft.png
 
 ## 🧑‍💼 Relying party
 
 ### 😱 Credential forgery
 
-![](https://github.com/nimakam/universal-identity-map/tree/22e40afc3e6d159811944dc17f4e45c08458a68c/4-harm-cases/images/credential-forgery.png)
+![Credential forgery][credential-forgery]
 
+[credential-forgery]: images/credential-forgery.png

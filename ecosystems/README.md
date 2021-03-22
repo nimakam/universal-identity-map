@@ -1,10 +1,12 @@
-# 🌐 Ecosystems
+# 🌐 [Ecosystems](../meta/README.md#ecosystem)
 
-Most ecosystems can be further divided down into sub-ecosystems, often based on how flow of value converges within certain groups of ecosystem players. The identity space or ecosystem can be divided into the consumer, business and government segments, or separately separated based on the type of technology \(digital, physical, etc\) and technology wave \(on-premise, web 2.0, etc\).
+Most ecosystems can be further divided down into sub-ecosystems, often based on how flow of value converges within certain groups of ecosystem players. The identity space or ecosystem can be divided into the consumer, business and government segments, or separately separated based on the type of technology (digital, physical, etc) and technology wave (on-premise, web 2.0, etc).
 
-![](../.gitbook/assets/ecosystem-map.png)
+![Identity ecosystem map][ecosystem-map]
 
-## 〰️ By [technology wave]()
+[ecosystem-map]: images/ecosystem-map.png
+
+## 〰️ By [technology wave](../meta/README.md#technology-wave)
 
 The top sub-ecosystems of an industry are formed based on specific technology waves that transform that industry by pushing the frontiers of efficiency. For the identity industry this mainly involves the developments in digital technologies and the internet.
 
@@ -14,15 +16,15 @@ Here we consider any technology before advent of the internet to be legacy. So a
 
 ### 💾 On-premise
 
-During the web 1.0 era, intranet and LDAP \(Lightweight Directory Access Protocol\) were touted inside enterprises. As part of this wave of technologies, SAML
+During the web 1.0 era, intranet and LDAP (Lightweight Directory Access Protocol) were touted inside enterprises. As part of this wave of technologies, SAML
 
-### 📱 Web 2.0 \(default\)
+### 📱 Web 2.0 (default)
 
 ### 🛸 Web 3.0
 
-## ☮️ By [segment]()
+## ☮️ By [segment](../meta/README.md##ecosystem-segment)
 
-### 🧑 Consumer \(default\)
+### 🧑 Consumer (default)
 
 The consumer segment always offers the larger economic opportunities due to its scale and relative uniformity, however it does provide its own challenges in terms of modes of delivery and purchase, due to the end-customers' relative lack of consideration resources and technical sophistication.
 
@@ -44,5 +46,4 @@ The business market is often further divided into segments for small businesses,
 
 ## ⚙️ Industry extension
 
-Given that the identity \[systems\] industry is a supporting industry, its value chains are extended into other essential industries such as healthcare, finance and hospitality. As such we can consider specific vertical industry extensions in parts of the ecosystem that have corresponding value chains. For example, the fact that AirBnB uses Facebook login means that the consumer identity ecosystem is extended into the hospitality industry for specific use cases involving the AirBnB vertical industry app.
-
+Given that the identity [systems] industry is a supporting industry, its value chains are extended into other essential industries such as healthcare, finance and hospitality. As such we can consider specific vertical industry extensions in parts of the ecosystem that have corresponding value chains. For example, the fact that AirBnB uses Facebook login means that the consumer identity ecosystem is extended into the hospitality industry for specific use cases involving the AirBnB vertical industry app.
