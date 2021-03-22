@@ -1,0 +1,16 @@
+# Table of contents
+
+* [🗺 Main](README.md)
+* [🧐 Meta](meta.md)
+* [👤 Personas](personas/README.md)
+* [🌐 Ecosystems](ecosystems.md)
+* [🤳 Use cases](use-cases.md)
+* [💣 Harm cases](harm-cases.md)
+* [🛸 Web 3.0](web-3/README.md)
+  * [🤳 Use cases](web-3/use-cases.md)
+  * [💣 Harm cases](web-3/harm-cases.md)
+* [🔬 Analysis](analysis/README.md)
+  * [🛠 Tools](analysis/tools.md)
+  * [💸 Economics](analysis/economics.md)
+  * [🏁 Ongoing efforts](analysis/efforts.md)
+  * [🏛 Architecture](analysis/architecture.md)
