@@ -1,4 +1,4 @@
-# 💣 [Harm cases](../../meta/README.md#harm-cases)
+# 💣 Harm cases
 
 Aka. attack vectors or vulnerabilities, this describes the set of scenarios that lead to significantly undesirable outcomes. These can occur as the result of a malicious attack, or due to oversight or accidents.
 
@@ -26,9 +26,7 @@ Mitigation steps:
 1. New key is verified
 2. Key verification is finalized with delay
 
-![Device and key loss][device-key-loss]
-
-[device-key-loss]: images/device-key-loss.png
+![](../.gitbook/assets/device-key-loss.png)
 
 ### 😱 Device/key theft
 
@@ -54,6 +52,5 @@ Mitigation steps:
 2. Revoke key after confirming activity is indeed fraudulent
 3. Key revocation is finalized with delay
 
-![Device and/or key theft attack][device-key-theft]
+![](../.gitbook/assets/device-key-theft.png)
 
-[device-key-theft]: images/device-key-theft.png

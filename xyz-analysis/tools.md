@@ -8,29 +8,27 @@ In the past few centuries, especially following the industrial revolution, human
 
 Some of the above-mentioned processes and systems have been disrupted or evolved since start of the digital information revolution, however in this section we focus on the systems and tools that remain unchanged by digital technology, thus use of the term “legacy”. We also primarily focus on the artifacts as representative symbols, as opposed to, and in place of their backing systems and processes.
 
-![Economic activities and legacy support tools][activity-legacy-support-tools]
+![](../.gitbook/assets/activity-legacy-support-tools.png)
 
-[activity-legacy-support-tools]: images/activity-legacy-support-tools.png
+Below is the list of legacy support artifacts \(see appendix for full definitions\):
 
-Below is the list of legacy support artifacts (see appendix for full definitions):
-
-- Identification documentation (Identity cards, badges and passports)
-- Resumes (C.V.)
-- Certificates and diplomas
-- Keys
-- Money, checks
-- Contact cards, business cards
-- Accounts (at businesses)
-- Signatures, fingerprints
-- Seal stamps
+* Identification documentation \(Identity cards, badges and passports\)
+* Resumes \(C.V.\)
+* Certificates and diplomas
+* Keys
+* Money, checks
+* Contact cards, business cards
+* Accounts \(at businesses\)
+* Signatures, fingerprints
+* Seal stamps
 
 ### Identification documentation
 
-(Identity cards, badges and passports) — are typically presented by a bearer to a receiver, they are used by bearers to identify themselves and are used by the receivers to verify the identity of the bearer, as well as to authenticate any documented claims. These documents are often issued and supported through a backend system managed by an authority such as the government. For example, drivers licenses are issued by state governments, and are typically required by some businesses to verify the customer’s identity as well as information such as date of birth.
+\(Identity cards, badges and passports\) — are typically presented by a bearer to a receiver, they are used by bearers to identify themselves and are used by the receivers to verify the identity of the bearer, as well as to authenticate any documented claims. These documents are often issued and supported through a backend system managed by an authority such as the government. For example, drivers licenses are issued by state governments, and are typically required by some businesses to verify the customer’s identity as well as information such as date of birth.
 
 ### Resumes
 
-(C.V.) — are used in the job application process to document the applicant’s identity, experience and education. The job applicant is identifying themselves as well as promoting their personal brand, and the potential employers are using scanning the contained identity information in their selection process.
+\(C.V.\) — are used in the job application process to document the applicant’s identity, experience and education. The job applicant is identifying themselves as well as promoting their personal brand, and the potential employers are using scanning the contained identity information in their selection process.
 
 ### Certificates and diplomas
 
@@ -48,7 +46,7 @@ Money commonly takes the form of denominated bills or coins, and is used as stor
 
 Business cards are primarily used to create, formalize and strengthen business connections, as well to promote an entity’s brand. Contact cards are used to formalize, store, organize and access personal and business connections. Complementary tools such as rolodexes or cardholders are used to store, organize and access these artifacts, especially in mobile scenarios.
 
-### Accounts (at businesses)
+### Accounts \(at businesses\)
 
 Customers often open an account with businesses they have recurring business with, in order for the business to have access to their latest identity, contact and payment information. For example home residents are required to have an account with the electricity company, notify the company of address changes, and keep banking account numbers up to date to facilitate recurring payments.
 
@@ -66,24 +64,22 @@ As mentioned, some of the processes and systems in use since the industrial revo
 
 Sometimes these improved systems are digital equivalents of their legacy counterparts, as with the example of digitized voice communication over the same phone infrastructure. At other times these systems are rebuilt on a completely new digital foundation, and present completely new opportunities, such as with the example of the internet and electronic mail.
 
-![Economic activity and digital support tools][activity-digital-support-tools]
+![](../.gitbook/assets/activity-digital-support-tools.png)
 
-[activity-digital-support-tools]: images/activity-digital-support-tools.png
+Below, we focus on particular artifacts, as opposed to, and in place of their backing systems and processes \(see appendix for full definitions\):
 
-Below, we focus on particular artifacts, as opposed to, and in place of their backing systems and processes (see appendix for full definitions):
-
-- Online identities
-- Online profiles
-- Connections
-- Digital certificates, hardware keys
-- Passwords
-- Online accounts
-- Payment cards —Debit and credit cards
-- Digital money— PayPal, Venmo, Zelle, etc
-- Contact data files
-- Email
-- Phone
-- eSignatures
+* Online identities
+* Online profiles
+* Connections
+* Digital certificates, hardware keys
+* Passwords
+* Online accounts
+* Payment cards —Debit and credit cards
+* Digital money— PayPal, Venmo, Zelle, etc
+* Contact data files
+* Email
+* Phone
+* eSignatures
 
 ### Online identities
 
@@ -132,3 +128,4 @@ Primarily used for communication, it has additional uses for identification and 
 ### eSignatures
 
 Are cryptographic artifacts defined within the context of a signing web service, such as docuSign, Adobe sign or others, that verify a person’s agreement on a digital legal document. Combined with complementary tools such as email and smart documents, these can be used to represent legal documents and processes digitally.
+
