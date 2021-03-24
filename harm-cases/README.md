@@ -30,9 +30,7 @@ Mitigation steps:
 
 [credential-loss]: images/credential-loss.png
 
-### 🕵️ Privacy loss
-
-#### 🗃 Accounts hacked
+### 🗃 Accounts hacked
 
 Businesses transacting with individuals and institutions with individual members often keep a copy of their client's identity and personal information, in case of having to refer back to them on subsequent interactions.
 
@@ -40,6 +38,10 @@ Businesses transacting with individuals and institutions with individual members
 2. Business or institutions creates and account with identity and personal information
 3. An attacker compromises client accounts en-masse and obtains copies
 4. Attacker can further abuse identity and personal information - selling, further attacking, etc
+
+![Accounts hacked][accounts-hack]
+
+[accounts-hack]: images/accounts-hack.png
 
 Harm:
 
@@ -56,10 +58,6 @@ Mitigation types:
 Mitigation steps:
 
 1. Notifying those affected of the compromise.
-
-![Accounts hacked][accounts-hack]
-
-[accounts-hack]: images/accounts-hack.png
 
 #### 👣 Tracking
 
@@ -78,14 +76,10 @@ Incomplete ...
 
 ## 🧑‍💼 Relying party
 
-### 😱 Credential forgery
+Below we look at significant cases involving harm to a so called relaying party, that is one that relies on the correctness of a verification by a trusted party through credentials or other means.
+
+### 🥸 Credential forgery
 
 ![Credential forgery][credential-forgery]
 
 [credential-forgery]: images/credential-forgery.png
-
-### 😱 Credential theft
-
-![Credential theft][credential-theft]
-
-[credential-theft]: images/credential-theft.png
