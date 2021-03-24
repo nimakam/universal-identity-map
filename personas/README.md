@@ -91,3 +91,27 @@ SomeApp is a well known commercial web service and app that consumer interact wi
 [some-brand-text]: images/some-brand-text@64h.png
 
 SomeBrand is a public facing brand that consumer interact with directly. It is representative of any commercial vertical business, in an area such as retail, hospitality, technology, communications, energy, real estate etc. It is differentiate from SomeApp in that it does not necessarily offer a consumer app.
+
+## 👨‍💻 Hacker - Hector
+
+![Hector the hacker][hector-hacker]
+
+[hector-hacker]: images/hector-hacker.png
+
+Hector is the hacker persona, who has the technical ability to discover and/or exploit system vulnerabilities and the desire to do so for personal or group gain, despite ethical and legal impediments, and despite security measures taken to make his efforts difficult.
+
+![Hacker persona map][hacker-persona-map]
+
+[hacker-persona-map]: images/hacker-persona-map.png
+
+There are at least 5 major categories of stakeholders performing hacking operations:
+
+### 👮 Law enforcement
+
+### 🎖 Military
+
+### 🕵️‍♀️ Intelligence agency
+
+### 🔫 Criminal organization
+
+### 👨‍💻 Lone hacker

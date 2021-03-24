@@ -6,6 +6,8 @@ This topic covers the major efforts going on in the identity industry, and tries
 
 ### DID
 
+The decentralized identity standards and ecosystem built on top of Decentralized Identifiers (DID) and related standards.
+
 #### W3C standardization
 
 - [DID core spec recommendation](https://www.w3.org/TR/did-core/)

@@ -2,13 +2,15 @@
 
 Aka. attack vectors or vulnerabilities, describing the set of scenarios that lead to significantly undesirable outcomes. These can occur as the result of a malicious attack, or due to oversight or accidents.
 
+The below sections are first organized by the party that is harmed, and subsequently by the type of attack, vulnerability or disaster that initiates the harm.
+
 ## 👩🏻 Consumer
 
 Below we look at significant cases where the consumer as identity owner is harmed due to an attack, a security vulnerability, and/or accidental negative outcomes.
 
 ### 😧 Credential loss
 
-Only a single copy of every given private keys is stored in a given device, making it vulnerable to the loss of that key due to device malfunction or loss.
+There is only a single valid original copy of a credential, making it vulnerable to the loss or damage to the point of unusability.
 
 1. User loses the credential or the credential is damaged beyond use
 2. User may have also lost other supporting credentials
@@ -28,11 +30,51 @@ Mitigation steps:
 
 [credential-loss]: images/credential-loss.png
 
-### 😱 Credential theft
+### 🕵️ Privacy loss
 
-![Credential theft][credential-theft]
+#### 🗃 Accounts hacked
 
-[credential-theft]: images/credential-theft.png
+Businesses transacting with individuals and institutions with individual members often keep a copy of their client's identity and personal information, in case of having to refer back to them on subsequent interactions.
+
+1. Consumer connects and registers with business or institution
+2. Business or institutions creates and account with identity and personal information
+3. An attacker compromises client accounts en-masse and obtains copies
+4. Attacker can further abuse identity and personal information - selling, further attacking, etc
+
+Harm:
+
+- Privacy rights for a large number of consumers has been violated
+- Further costs or risks may ensue as result of further dissemination of that information - Cost of replacing with new identity and personal info, risk of being targeted virtually or physically
+
+Mitigation types:
+
+1. Offline storage of account information
+2. No storage of account information
+3. Storage per consumer permissions
+4. Combination of some or all of above
+
+Mitigation steps:
+
+1. Notifying those affected of the compromise.
+
+![Accounts hacked][accounts-hack]
+
+[accounts-hack]: images/accounts-hack.png
+
+#### 👣 Tracking
+
+Incomplete ...
+
+### 🧛 Value extraction
+
+Big tech identity provider uses asymmetric strategic power position, stemming from scale, to extracts value from identity owners they provide identity services to.
+
+- Violating privacy - Strong-arming users into giving up ownership of personal data and activity information for free, meanwhile gaslighting them by minimizing the harm incurred, in return to services that have no real market alternatives due to monopoly powers:
+  - Using personal data and tracking information to produce and sell insights to advertisers, that gives them unfair advantages in influencing the user's behavior.
+  - Using personal data and tracking information to gain an unfair advantage by influencing the user's behavior
+User lock-in - Enforcing high switching costs on users who are leaning towards switching out of identity services bundled with other services, using leverage of scale and market power.
+
+Incomplete ...
 
 ## 🧑‍💼 Relying party
 
@@ -41,3 +83,9 @@ Mitigation steps:
 ![Credential forgery][credential-forgery]
 
 [credential-forgery]: images/credential-forgery.png
+
+### 😱 Credential theft
+
+![Credential theft][credential-theft]
+
+[credential-theft]: images/credential-theft.png
