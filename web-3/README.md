@@ -8,5 +8,5 @@ This new wave of technologies will enable a new set of use cases, but it will al
 
 ## 🌳 Contents
 
-- **[🤳 Use cases](use-cases/README.md)** - Describe the way users and customers receive value through usage.
-- **[💣 Harm cases](harm-cases/README.md)** - Attack vectors or vulnerabilities, describing the set of scenarios that lead to significantly undesirable outcomes.
+- **[🤳 Use cases](/web-3/use-cases/README.md)** - Describe the way users and customers receive value through usage.
+- **[💣 Harm cases](/web-3/harm-cases/README.md)** - Attack vectors or vulnerabilities, describing the set of scenarios that lead to significantly undesirable outcomes.
