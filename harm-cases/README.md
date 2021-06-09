@@ -2,7 +2,27 @@
 
 Aka. attack vectors or vulnerabilities, describing the set of scenarios that lead to significantly undesirable outcomes. These can occur as the result of a malicious attack, or due to oversight or accidents.
 
-The below sections are first organized by the party that is harmed, and subsequently by the type of attack, vulnerability or disaster that initiates the harm.
+>Note: The default technology wave we are focusing on is Web 2.0, which represents the set of modern technologies currently used on the internet.
+
+The below sections first outline the general themes of harm enabled by the technology wave, and subsequently enumerate individual harm cases, first organized by the party that is harmed, then by the type of attack, vulnerability or disaster that initiates the harm.
+
+## 📚 Harm themes
+
+- **Hacked systems** - Compromised accounts, device, OS or App - Mass account hacks at the provider side are a high-scale special case
+- **Value extraction** (Surveillance) (BigTech) - through prediction and selling or conversion of insights into profits (Surveillance capitalism) - a type of rent seeking
+- **Customer lock-in** (monopoly behavior) (BigTech) - leads to rent seeking
+- **Censorship** (platforms) (BigTech) - due to social and political pressure
+- **Systematic political suppression** (Surveillance and force) (BigGov + BigTech)
+
+### 👨‍💻 Hacked systems
+
+### 🧛‍♂️ Value extraction
+
+### ⛓ Customer lock-in
+
+### 🤐 Censorship
+
+### 🏴 Systematic political suppression
 
 ## 👩🏻 Consumer
 
@@ -30,7 +50,7 @@ Mitigation steps:
 
 [credential-loss]: images/credential-loss.png
 
-### 🗃 Accounts hacked
+### 🗃 Hacked accounts
 
 Businesses transacting with individuals and institutions with individual members often keep a copy of their client's identity and personal information, in case of having to refer back to them on subsequent interactions.
 
@@ -73,6 +93,8 @@ Big tech identity provider uses asymmetric strategic power position, stemming fr
 User lock-in - Enforcing high switching costs on users who are leaning towards switching out of identity services bundled with other services, using leverage of scale and market power.
 
 Incomplete ...
+
+### 🔓 User lock-in
 
 ## 🧑‍💼 Relying party
 

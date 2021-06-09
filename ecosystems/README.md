@@ -10,9 +10,11 @@ Most ecosystems can be further divided down into sub-ecosystems, often based on 
 
 The top sub-ecosystems of an industry are formed based on specific technology waves that transform that industry by pushing the frontiers of efficiency. For the identity industry this mainly involves the developments in digital technologies and the internet.
 
-### 🧮 Legacy
+### 💳 Legacy+
 
 Here we consider any technology before advent of the internet to be legacy. So any economic activity around offering mechanical or semi analog solutions to identity problems is considered part of this sub-ecosystem.
+
+We also consider incremental improvements on such technologies as chipped cards, smart passports etc.
 
 ### 💾 On-premise
 

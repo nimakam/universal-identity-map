@@ -2,6 +2,11 @@
 
 Aka. attack vectors or vulnerabilities, this describes the set of scenarios that lead to significantly undesirable outcomes. These can occur as the result of a malicious attack, or due to oversight or accidents.
 
+## 📚 Harm themes
+
+- **Key management**
+- **Privacy loss on public blockchains** - through easier correlation and public usage information
+
 ## 🧑 Identity owner
 
 Below we look at significant cases where the identity owner is harmed due to an attack, a security vulnerability, and/or accidental negative outcomes.
