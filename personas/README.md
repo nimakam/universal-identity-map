@@ -104,7 +104,7 @@ Hector is the hacker persona, who has the technical ability to discover and/or e
 
 [hacker-persona-map]: images/hacker-persona-map.png
 
-There are at least 5 major categories of stakeholders performing hacking operations:
+There are at least 5 major categories of stakeholders funding hacking operations:
 
 ### 👮 Law enforcement
 
