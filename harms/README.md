@@ -8,8 +8,8 @@ The below sections first outline general themes of the harms enabled by the tech
 
 ## 💣 Harm themes
 
-- **System compromise & digital fraud** - [Criminals, foreign states, etc] - Hacked accounts, device, OS or App with the goal of gaining access, information or resources - Mass account hacks at the provider side are a high-scale special case.
-- **Usability issues** - The proliferation of identity systems, depending on user name and passwords, across service providers covering the many aspects of our digital lives, has made managing our credentials more and more difficult.
+- **System hacks** - [Criminals, foreign states, etc] - Hacked accounts, device, OS or App with the goal of gaining access, information or resources - Mass account hacks at the provider side are a high-scale special case.
+- **Inconvenience** - The proliferation of identity systems, depending on user name and passwords, across service providers covering the many aspects of our digital lives, has made managing our credentials more and more difficult.
 - **Value extraction** - [BigTech] - exerted through prediction and selling or conversion of insights into profits, and may also be known as surveillance capitalism in popular culture. This most commonly manifests itself as part of rent seeking behaviors.
 - **Monopolization** - [BigTech] - Often accompanies problems such as customer lock-in, rent-seeking, stifling innovation.
 - **Censorship** - [BigTech] - Denying access to citizens associated with undesirable groups or taking away their access to common platforms due to social and political pressure.
@@ -24,9 +24,9 @@ For the subset of these harms that originate from attacks, the sources of attack
 - **Criminals** - Independent criminal persons and/or organizations taking advantage of vulnerability and monetary opportunity where available.
 - **Foreign states** - Military and foreign intelligence agencies exerting costs onto foreign adversaries through unconventional warfare, sometimes compromising foreign citizens' privacy or access in the process.
 
-### 👨‍💻 System compromise
+### 👨‍💻 System hacks
 
-One of the most significant negative impacts digital technology and the internet have had on society has been an unintended one, a much higher possibility of compromise.
+One of the most significant negative impacts digital technology and the internet have had on society has been an unintended one, a much higher possibility of system compromises.
 
 As a result of the vast reduction of cost in information transmission and information storage, we now rely on systems that digitize and replicate our interactions and are commonly always-connected to the internet. This means that the compromise of our personal information, and our access to these systems is more likely than ever, especially when compared to the paper-based bureaucratic systems of the past. The negative effects have been compounded since more aspects of our lives have been automated through these technologies compared to the past.
 
@@ -46,7 +46,7 @@ There are at least 5 major categories of stakeholders performing cyber attacking
 - **Intelligence agency** - Intelligence agencies are always looking for more valuable information, especially related to foreign adversaries. As such, cyber operations have become one of the most cost effective methods of gathering intelligence.
 - **Military** - Military forces are most concerned with defending nations, although they do sometimes engage in asymmetric offensive and destructive operations. One of the most cost effect of these methods has become using cyber operations.
 
-### 🗝 Usability issues
+### 🗝 Inconvenience
 
 The proliferation of identity systems, all depending on user name and passwords, across service providers covering the many aspects of our digital lives, has made managing our credentials more and more difficult.
 
@@ -56,9 +56,12 @@ Of course password managers are very useful in this regards, but they also intro
 
 ### 🎩 Monopolization
 
-The digital technology industry partly consists of a number of mostly monopolized markets. Given that identity amongst others (such as data, connectivity, device and web user interfaces, etc) is a basic underlying layer of all technology products, identity systems are often used effectively to reinforce monopoly in a number of ways.
+The digital technology industry partly consists of a number of monopolized sub-markets. Given that identity (amongst others such as data, connectivity, device and web user interfaces, etc) is a basic underlying layer of all technology products, identity systems are often used effectively to reinforce monopoly in a number of ways.
 
-Identity and data stickiness are amongst the most effective deterrents to switching. Also when identity is combined with a social graph with massive network effects, it creates an almost unbreakable habit. Bundling identity systems with other dominant apps such as messaging, online discussion boards or marketplaces only strengthens the monopoly.
+- **Switching friction** - Identity and data stickiness are amongst the most effective deterrents to switching.
+- **Social graph identities** - When identity is combined with a social graph with massive network effects, it creates an almost unbreakable habit.
+- **App bundling** - Bundling identity systems with other dominant first party apps such as messaging, online discussion boards or marketplaces further strengthens monopoly.
+- **App integration** - Encouraging third party apps to integrate with a given platform's identity systems results in higher stickiness.
 
 Monopoly is generally achieved through supporting of factors such as:
 
@@ -66,6 +69,10 @@ Monopoly is generally achieved through supporting of factors such as:
 - **Bundling** - Comes from the act of tying together products serving separate markets together, especially tying an already monopolized market to others for the purpose of promoting their use, and creating customer lock-in
 - **Incompatibility** - Is the condition of a customer or user not being able to migrate their application data from one provider to another, due to incompatibility issues. This means that customers will take on some costs if they ever where to switch
 - **Scale** - The economics of scale, especially for offerings requiring a high CapEx investment, will naturally benefit providers that already dominate a large part of the market already.
+
+![Monopolization factors][monopolization]
+
+[monopolization]: images/monopolization@750w.png
 
 Monopolization is often synonymous with the following simultaneous and interrelated problems:
 
@@ -265,7 +272,7 @@ Incomplete ...
 
 ### ⭐️ Sybil review
 
-Customers of businesses and products increasingly rely on online reviews everyday to guide their purchasing decisions. As such, businesses find influencing these reviews more and more lucrative, and in many cases they cannot resist.
+Customers of businesses and products increasingly rely on online reviews everyday to guide their purchasing decisions. As such, businesses find influencing these reviews more and more lucrative, and in many cases they cannot resist, and pay external actors to boost their reviews. This is a type of [sybil attack](https://en.wikipedia.org/wiki/Sybil_attack).
 
 Harm:
 
@@ -277,7 +284,7 @@ Incomplete ...
 
 ### 💬 Sybil influence
 
-Simulating a large number of humans on social media supporting and spreading a specific point of view, with the goal of moving the public consensus.
+Simulating a large number of humans on social media supporting and spreading a specific point of view, with the goal of moving the public consensus. This is a type of [sybil attack](https://en.wikipedia.org/wiki/Sybil_attack)
 
 Healthy public debates rely on the honesty and sincerity or the various voices expressing society's various significant points of view. In today's competitive and sometimes even polarized public conversations, many sides resort to all kinds of tactics to have their side win by bringing more of the public to their side. The social influence of some foreign governments has even been documented recently, likely with a goal of muddying the waters and decreasing an adversary's social cohesion.
 
