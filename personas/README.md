@@ -61,13 +61,13 @@ Devin is the development-operations person working on decentralized-identity-ena
 
 Divya is an identity core platform, app or infrastructure development-operations person, which means she is a major stakeholder on the decentralized identity ecosystem. She spends most of her day focusing on the aspects of services and infrastructure that are key to decentralized identity ecosystem operations. She needs to ensure that infrastructure pieces function and are easy to use for app developers such as Devin. She also needs to provide support to Devin and app developers in general, with any issues.
 
-## ⏹ Apps and services
+## 📲 Apps and services
 
 In addition to persona's this document highlights typical and representative examples of apps and backing web services that each persona could interact with in some way.
 
 Additionally consumers will typically interact with a large number of vertical apps and businesses that will rely on the greater decentralized identity system comprising of connected, public and private identity subsystems.
 
-### 🗝 Identity app
+### 🆔 Identity app
 
 ![Some identity app][some-identity-app]![Some identity app text][some-identity-app-text]
 
@@ -76,7 +76,7 @@ Additionally consumers will typically interact with a large number of vertical a
 
 SomeIdentityApp is a secured identity app that consumers interact with directly on their devices.
 
-### 📲 Vertical app (and service)
+### ⏹ Vertical app
 
 ![Some app][some-app]![Some app text][some-app-text]
 
@@ -106,12 +106,22 @@ Hector is the hacker persona, who has the technical ability to discover and/or e
 
 There are at least 5 major categories of stakeholders funding hacking operations:
 
-### 👮 Law enforcement
+### 👨‍💻 Lone hacker
 
-### 🎖 Military
-
-### 🕵️‍♀️ Intelligence agency
+Any one person from anywhere in the world with access to the internet, advanced security technology chops, and little other resources, can take a shot at compromising valuable systems and resources for monetary gain.
 
 ### 🔫 Criminal organization
 
-### 👨‍💻 Lone hacker
+Where cyber attacks require additional resources and investment, hackers act as part of larger criminal organization to carry out cyber operations for monetary gain of the organization.
+
+### 🕵️‍♀️ Intelligence agency
+
+Intelligence agencies are always looking for more valuable information, especially related to foreign adversaries. As such, cyber operations have become one of the most cost effective methods of gathering intelligence.
+
+### 🎖 Military
+
+Military forces are most concerned with defending nations, although they do sometimes engage in asymmetric offensive and destructive operations. One of the most cost effect of these methods has become using cyber operations.
+
+### 👮 Law enforcement
+
+Law enforcement agencies may compromise systems and manipulate them as part of investigations into crimes, most often of the cyber nature, to investigate or recover lost resources.
