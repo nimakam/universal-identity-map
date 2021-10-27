@@ -1,4 +1,4 @@
-# 💳 Legacy+
+🩹# 💳 Legacy+
 
 Legacy first encompasses the collection and waves of technologies used before the advent of digital information technology, with a long track record of evolution and utilization by society at scale. Most of the solutions discussed are document and paper-based with a few, such as credit cards, having some analog components.
 

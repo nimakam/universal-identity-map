@@ -1,4 +1,4 @@
-# 🤕 [Harm cases](../../meta/README.md#harm-cases)
+🩹# 🤕 [Harm cases](../../meta/README.md#harm-cases)
 
 Aka. attack vectors or vulnerabilities, describing the set of scenarios that lead to significantly undesirable outcomes. These can occur as the result of a malicious attack, or due to oversight or accidents.
 

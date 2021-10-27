@@ -13,7 +13,7 @@ This knowledge base is intended to cover the industry broadly and deeply, giving
 - **[👤 Personas](/personas/README.md)** - Definition of major personas used in various parts of the industry categorized by segments.
 - **[🌐 Ecosystems](/ecosystems/README.md)** - Detailes of the greater identity ecosystem and its individual sub-ecosystems. This article is incomplete ... to be completed soon.
 - **[💪 Use cases](/uses/README.md)** - Describe the way users and customers receive value through usage.
-- **[🤕 Harm cases](/harms/README.md)** - Attack vectors or vulnerabilities, describing the set of scenarios that lead to significantly undesirable outcomes.
+- **[🩹 Harm cases](/harms/README.md)** - Attack vectors or vulnerabilities, describing the set of scenarios that lead to significantly undesirable outcomes.
 
 ## 🗺 Map structure
 

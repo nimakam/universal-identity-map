@@ -1,4 +1,4 @@
-# 🛸 Web 3.0
+🩹# 🛸 Web 3.0
 
 Web 3.0 encompasses the collection and wave of technologies that will help form the next iteration of the internet and the web. Our theory is that identity will play a key role as part of this wave, along with other technologies such as full-functioned Progressive Web Apps (PWAs), and Decentralized Finance on public blockchain.
 
