@@ -9,4 +9,4 @@ Given the wide adoption and stable usage of these technologies in everyday activ
 ## 🌳 Contents
 
 - **[💪 Use cases](/legacy/uses/README.md)** - Describe the way users and customers receive value through usage.
-- **[💀 Harm cases](/legacy/harms/README.md)** - Attack vectors or vulnerabilities, describing the set of scenarios that lead to significantly undesirable outcomes.
+- **[🤕 Harm cases](/legacy/harms/README.md)** - Attack vectors or vulnerabilities, describing the set of scenarios that lead to significantly undesirable outcomes.
