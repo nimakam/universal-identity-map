@@ -1,15 +1,15 @@
-# 🤕 Harm cases
+# Harm cases
 
 Aka. attack vectors or vulnerabilities, this describes the set of scenarios that lead to significantly undesirable outcomes. These can occur as the result of a malicious attack, or due to oversight or accidents.
 
->Note: This section tends to the commonly expected harms unique to the Web 3.0, which represents the wave of a set of upcoming technologies to be used on the internet in the coming decade or so.
+> Note: This section tends to the commonly expected harms unique to the Web 3.0, which represents the wave of a set of upcoming technologies to be used on the internet in the coming decade or so.
 
 The below sections first outline general themes of the harms enabled by the technology wave, and subsequently enumerate individual harm cases, first organized by the party that is harmed, then by the type of attack, vulnerability or disaster that initiates the harm.
 
 ## 💣 Harm themes
 
-- **Key management**
-- **Privacy loss on public blockchains** - through easier correlation and public usage information
+* **Key management**
+* **Privacy loss on public blockchains** - through easier correlation and public usage information
 
 ## 🧑 Identity owner
 
@@ -35,9 +35,7 @@ Mitigation steps:
 1. New key is verified
 2. Key verification is finalized with delay
 
-![Device and key loss][device-key-loss]
-
-[device-key-loss]: images/device-key-loss.png
+![Device and key loss](images/device-key-loss.png)
 
 ### 😱 Device/key theft
 
@@ -63,6 +61,4 @@ Mitigation steps:
 2. Revoke key after confirming activity is indeed fraudulent
 3. Key revocation is finalized with delay
 
-![Device and/or key theft attack][device-key-theft]
-
-[device-key-theft]: images/device-key-theft.png
+![Device and/or key theft attack](images/device-key-theft.png)

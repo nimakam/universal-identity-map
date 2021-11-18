@@ -1,15 +1,15 @@
-# 🤕 [Harm cases](../../meta/README.md#harm-cases)
+# Harm cases
 
 Aka. attack vectors or vulnerabilities, this describes the set of scenarios that lead to significantly undesirable outcomes. These can occur as the result of a malicious attack, or due to oversight or accidents.
 
->Note: This section tends to the commonly expected harms unique to the Legacy+, which represents the wave of older technologies used before advent of the internet and digital information technology.
+> Note: This section tends to the commonly expected harms unique to the Legacy+, which represents the wave of older technologies used before advent of the internet and digital information technology.
 
 The below sections first outline general themes of the harms enabled by the technology wave, and subsequently enumerate individual harm cases, first organized by the party that is harmed, then by the type of attack, vulnerability or disaster that initiates the harm.
 
 ## 💣 Harm themes
 
-- **Document forgery**
-- **Document loss or theft**
+* **Document forgery**
+* **Document loss or theft**
 
 ## 👩🏻 Consumer
 
@@ -17,9 +17,7 @@ Below we look at significant cases where the consumer as identity owner is harme
 
 ### 🥸 Credential forgery
 
-![Credential forgery][credential-forgery]
-
-[credential-forgery]: images/credential-forgery.png
+![Credential forgery](images/credential-forgery.png)
 
 ### 😧 Credential loss
 
@@ -39,6 +37,4 @@ Mitigation steps:
 
 1. Applying for a replacement credential from institution
 
-![Credential loss][credential-loss]
-
-[credential-loss]: images/credential-loss.png
+![Credential loss](images/credential-loss.png)
