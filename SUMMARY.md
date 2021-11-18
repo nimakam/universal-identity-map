@@ -6,7 +6,7 @@
 * [🌐 Ecosystems](ecosystems/README.md)
 * [💪 Use cases](uses/README.md)
 * [🤕 Harm cases](harms/README.md)
-* [🧩 Problems](problems/README.md)
+* [🤔 Problems](problems/README.md)
 * [🛸 Web 3.0](web3/README.md)
   * [💪 Use cases](web3/uses/README.md)
   * [🤕 Harm cases](web3/harms/README.md)
