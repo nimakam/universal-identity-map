@@ -124,7 +124,7 @@ Parts of these steps may occur in parallel or out of order, however the general 
 
 Here we define the concepts needed for building an objective meta-map of how our effort makes sense of the world. This high level perspective helps describe different aspects of the external world such as markets and ecosystems.
 
-![Mapping meta-concepts](<images/meta-concepts (1).png>)
+![Mapping meta-concepts](<images/meta-concepts (1) (1).png>)
 
 ### 👁 Perspectives
 
